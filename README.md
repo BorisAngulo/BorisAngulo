@@ -2,7 +2,7 @@
 
 ## Encuéntrame en:
 
-[![YouTube](https://img.shields.io/badge/youtube-bornyxd6829?style=for-the-badge&logo=youtube&logoColor=white&labelColor=101010)](https://youtube.com/mouredevapps)
+[![YouTube](https://img.shields.io/badge/YouTube-bornyxD-FF0000?style=for-the-badge&logo=youtube&logoColor=white&labelColor=101010)](https://www.youtube.com/@bornyxd6829)
 [![Twitch](https://img.shields.io/badge/Twitch-mouredev-9146FF?style=for-the-badge&logo=twitch&logoColor=white&labelColor=101010)](https://twitch.tv/mouredev)
 [![Discord](https://img.shields.io/badge/Discord-mouredev-5865F2?style=for-the-badge&logo=discord&logoColor=white&labelColor=101010)](https://mouredev.com/discord)
 </br>
